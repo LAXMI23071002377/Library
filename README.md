@@ -1,4 +1,6 @@
-🖋️ Description:
+                                                                           🖋️ Description:
+
+                                                                           
 The Student Record Management System is a console-based application built in C++ that helps manage student records efficiently using file handling and object-oriented programming concepts.
 
 The system allows the user to:
@@ -10,7 +12,9 @@ The system allows the user to:
 
 Records are stored persistently using a text file (students.txt), demonstrating practical use of file streams (ifstream, ofstream), classes, and structured data processing.
 
-🛠️ Technologies Used:
+                                                                       🛠️ Technologies Used:
+
+                                                                       
 C++ (Core language)
 
 File Handling (fstream for persistent storage)
